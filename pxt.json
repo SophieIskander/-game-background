@@ -1,0 +1,44 @@
+{
+    "name": " Game Background",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.6.24",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#6a5c31",
+        "#4bb4cc",
+        "#946d3d",
+        "#7d5827",
+        "#b3fbfb",
+        "#137fad",
+        "#3f922c",
+        "#56bed6",
+        "#54b6cc",
+        "#eeeee4",
+        "#1d1e1e",
+        "#60cb3c",
+        "#042e6a",
+        "#7800ff",
+        "#B8babb",
+        "#9aff00"
+    ]
+}
